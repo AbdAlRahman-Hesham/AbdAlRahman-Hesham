@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abd Al Rahman Hesham</h1>
-<h3 align="center">A Passionate Full Stack Developer from Tanta, Egypt 🇪🇬</h3>
+<h3 align="center">A Passionate Full Stack Developer from Tanta, Egypt</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F77C7C&vCenter=true&width=435&lines=Full+Stack+Developer;ASP.NET+Core+%7C+Angular+%7C+Blazor;Clean+Architecture+Advocate;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
