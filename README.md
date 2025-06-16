@@ -10,7 +10,6 @@
 ### 🎓 About Me
 
 - 🎓 **Computer Engineering Student** @ Tanta University  
-  <sub>📅 Expected Graduation: July 2026</sub>
 - 💼 **Freelance Full-Stack Developer** | **Technical Leader at IEEE**
 - 🔧 Focused on **ASP.NET Core**, **Angular**, **Blazor**, and **Clean Architecture**
 - 🌐 **Portfolio:** [dev-abdelrahman.runasp.net](https://dev-abdelrahman.runasp.net)
@@ -31,13 +30,15 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
 
   <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" />
   <img src="https://skillicons.dev/icons?i=azure" height="40" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" />
+  <img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" height="40" />
 
   <!-- Other -->
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
